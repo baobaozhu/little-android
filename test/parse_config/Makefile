@@ -1,7 +1,10 @@
 
 SRC_FILES := main.c \
     util.c \
-    parse.c
+    parse.c \
+    init_parse.c \
+    builtins.c \
+    list.c
 
 INCLUDE_PATH := 
 

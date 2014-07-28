@@ -60,3 +60,6 @@ text:
 
     return TOKEN_ID_EOF;
 }
+
+void parse_line_no_op(struct parse_state *state, int nargs, char **args) {
+}

@@ -3,4 +3,6 @@
 
 #define INIT_PARSER_MAXARGS 64
 
+int init_parse_config_file(const char *fn);
+
 #endif
